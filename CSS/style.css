@@ -218,7 +218,7 @@ padding-bottom:100px;
   font-family: "Kulim Park", sans-serif;
 }
 
-.mobileColumn {
+.aboutMe {
   display: flex;
   margin:auto;
   align-items: center;
@@ -250,7 +250,7 @@ padding-bottom:100px;
 
 .skillsImage {
   width: 50%;
-  margin-top: 80px;
+  
 }
 
 .projects {
@@ -299,7 +299,7 @@ grid-area:head;
     width: 100%;
     text-align: center;
   }
-  .mobileColumn {
+  .aboutMe {
     flex-direction: column-reverse;
     margin-top:50px;
     width:90%;
